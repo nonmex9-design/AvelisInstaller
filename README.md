@@ -19,3 +19,6 @@ Pre-Compiled 1.0.3: https://github.com/nonmex9-design/AvelisInstaller/releases/t
   <img src="https://cdn.discordapp.com/emojis/1119329087551459430.webp?size=40" width="32" valign="middle">
   SECOND NOTE: Every version of the installer will be made here publicly, the Pre-Compiled versions in Releases are not obfuscated so just download [DnSpy](https://github.com/dnspy/dnspy) or [ILSpy](https://github.com/icsharpcode/ilspy) to see the source.
 </h4>
+
+-
+Avelis is not affiliated with, endorsed by, or associated with Roblox Corporation.
