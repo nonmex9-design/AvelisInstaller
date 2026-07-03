@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://cdn.discordapp.com/emojis/1503899946963697886.png?size=40" width="32" valign="middle">
+  <img src="https://cdn.discordapp.com/emojis/1520735090479730779.webp?size=40" width="32" valign="middle">
   Hello! This is the public repository of the Avelis installer.
 </h1>
 
