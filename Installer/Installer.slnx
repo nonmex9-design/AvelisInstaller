@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Installer/Installer.csproj" Id="2861655e-8fbb-4333-bc5c-b7cb6c8984d5">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
