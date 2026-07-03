@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
@@ -16,7 +16,7 @@ namespace Installer
         private const string DownloadUrl = "https://aveliss.pages.dev/download/AvelisPortable.zip";
         private const string VersionUrl = "https://aveliss.pages.dev/download/version.txt";
 
-        private const string InstallerVersionUrl = "https://8193ab25.aveliss.pages.dev/download/installer-version.txt";
+        private const string InstallerVersionUrl = "https://7cead19f.aveliss.pages.dev/download/installer-version.txt";
         private const string InstallerVersionUrlOld = "https://aveliss.pages.dev/download/installer-version.txt";
 
         private string _currentVersion;
