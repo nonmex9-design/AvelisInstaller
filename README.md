@@ -14,3 +14,5 @@
 Pre-Compiled 1.0.2: https://github.com/nonmex9-design/AvelisInstaller/releases/tag/1.0.2
 
 #### NOTE: The installer works perfectly fine just the executor is broken at this moment, Avelis 1.1.4 is coming soon with everything fixed.
+
+#### SECOND NOTE: Every version of the installer will be made here publicly, the Pre-Compiled versions in Releases are not obfuscated so just download [DnSpy](https://github.com/dnspy/dnspy) or [ILSpy](https://github.com/icsharpcode/ilspy) to see the source
