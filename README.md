@@ -23,10 +23,8 @@ Pre-Compiled 1.0.3: https://github.com/nonmex9-design/AvelisInstaller/releases/t
 -
 Avelis is not affiliated with, endorsed by, or associated with Roblox Corporation.
 
+<p><strong>UI Image:</strong></p>
 
-UI Image:
-<img src="/assets/ui.png">
-
-<p>UI Image:
-  <img src="/assets/ui.png" width="750">
+<p>
+  <img src="/assets/ui.png" width="750" alt="Avelis UI">
 </p>
