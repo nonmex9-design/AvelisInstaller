@@ -25,4 +25,4 @@ Avelis is not affiliated with, endorsed by, or associated with Roblox Corporatio
 
 
 UI Image:
-<img src="/assets/ui.png" valign="middle">
+<img src="/assets/ui.png">
