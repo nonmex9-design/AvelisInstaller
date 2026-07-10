@@ -1,6 +1,6 @@
 <h1>
   <img src="https://cdn.discordapp.com/emojis/1520735090479730779.webp?size=40" width="32" valign="middle">
-  Hello! This is the public repository of the Avelis installer.
+  Hello! This is the public repository of the Avelis Installer / Bootstrapper.
 </h1>
 
 <h3>Why make this? I made this just because I wanted to and to prove I'm not ratting anyone lol. <img src="https://cdn.discordapp.com/emojis/1503899106861518858.webp?size=40" width="32" valign="middle"></h3>
