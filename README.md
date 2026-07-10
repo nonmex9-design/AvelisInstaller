@@ -7,7 +7,7 @@
 
 ### It is open-source, and I already have it pre-compiled in **Releases** if you want to try it out. <img src="https://cdn.discordapp.com/emojis/1503899945151893636.webp?size=40" width="32" valign="middle">
 
-Pre-Compiled 1.0.3: https://github.com/nonmex9-design/AvelisInstaller/releases/tag/1.0.3
+[Pre-Compiled 1.0.3](https://github.com/nonmex9-design/AvelisInstaller/releases/tag/1.0.3)
 
 #### NOTE: The installer works perfectly fine just the executor is broken at this moment, Avelis 1.1.4 is coming soon with everything fixed.
 
