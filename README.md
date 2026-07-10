@@ -1,15 +1,13 @@
-<h1 align="center">
+<h1>
   <img src="https://cdn.discordapp.com/emojis/1520735090479730779.webp?size=40" width="32" valign="middle">
   Hello! This is the public repository of the Avelis installer.
 </h1>
 
-<h3 align="center">Why make this? I made this just because I wanted to and to prove I'm not ratting anyone lol. <img src="https://cdn.discordapp.com/emojis/1503899106861518858.webp?size=40" width="32" valign="middle"></h3>
+<h3>Why make this? I made this just because I wanted to and to prove I'm not ratting anyone lol. <img src="https://cdn.discordapp.com/emojis/1503899106861518858.webp?size=40" width="32" valign="middle"></h3>
 
-<h3 align="center">It is open-source, and I already have it pre-compiled in <strong>Releases</strong> if you want to try it out. <img src="https://cdn.discordapp.com/emojis/1503899945151893636.webp?size=40" width="32" valign="middle"></h3>
+<h3>It is open-source, and I already have it pre-compiled in <strong>Releases</strong> if you want to try it out. <img src="https://cdn.discordapp.com/emojis/1503899945151893636.webp?size=40" width="32" valign="middle"></h3>
 
-<p align="center">
-  <a href="https://github.com/nonmex9-design/AvelisInstaller/releases/tag/1.0.3">Pre-Compiled 1.0.3</a>
-</p>
+[Pre-Compiled 1.0.3](https://github.com/nonmex9-design/AvelisInstaller/releases/tag/1.0.3)
 
 > #### NOTE: The installer works perfectly fine just the executor is broken at this moment, Avelis 1.1.4 is coming soon with everything fixed.
 
@@ -23,6 +21,4 @@
 
 <hr style="margin: 12px 0; border: 0; border-top: 1px solid rgba(44, 44, 44, 0.3);">
 
-<p align="center">
-  <em>Avelis is not affiliated with, endorsed by, or associated with Roblox Corporation.</em>
-</p>
+Avelis is not affiliated with, endorsed by, or associated with Roblox Corporation.
