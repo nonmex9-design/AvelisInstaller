@@ -4,7 +4,7 @@
 </h1>
 
 <h3>
-  I made this just because I wanted to and to prove I'm not ratting anyone lol. <img src="https://cdn.discordapp.com/emojis/1503899106861518858.webp?size=40" width="32" valign="middle">
+  Why make this? I made this just because I wanted to and to prove I'm not ratting anyone lol. <img src="https://cdn.discordapp.com/emojis/1503899106861518858.webp?size=40" width="32" valign="middle">
 </h1>
 
 <h3>
