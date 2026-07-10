@@ -13,7 +13,8 @@
 
 #### <img src="https://cdn.discordapp.com/emojis/1119329087551459430.webp?size=40" width="32" valign="middle"> SECOND NOTE: Every version of the installer will be made here publicly, the Pre-Compiled versions in Releases are not obfuscated so just download [DnSpy](https://github.com/dnspy/dnspy) or [ILSpy](https://github.com/icsharpcode/ilspy) to see the source.
 
--
+---
+
 Avelis is not affiliated with, endorsed by, or associated with Roblox Corporation.
 
 <p><strong>UI Image:</strong></p>
