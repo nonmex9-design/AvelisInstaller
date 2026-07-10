@@ -13,14 +13,12 @@
 
 #### <img src="https://cdn.discordapp.com/emojis/1119329087551459430.webp?size=40" width="32" valign="middle"> SECOND NOTE: Every version of the installer will be made here publicly, the Pre-Compiled versions in Releases are not obfuscated so just download [DnSpy](https://github.com/dnspy/dnspy) or [ILSpy](https://github.com/icsharpcode/ilspy) to see the source.
 
-<hr style="margin: 12px 0; border: 0; border-top: 1px solid rgba(44, 44, 44, 0.3);">
-
-Avelis is not affiliated with, endorsed by, or associated with Roblox Corporation.
-
-<hr style="margin: 12px 0; border: 0; border-top: 1px solid rgba(44, 44, 44, 0.3);">
-
 <p><strong>UI Image:</strong></p>
 
 <p>
   <img src="/assets/ui.png" width="450" alt="Avelis UI">
 </p>
+
+<hr style="margin: 12px 0; border: 0; border-top: 1px solid rgba(44, 44, 44, 0.3);">
+
+*Avelis is not affiliated with, endorsed by, or associated with Roblox Corporation.*
